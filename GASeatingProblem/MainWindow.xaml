@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GASeatingProblem"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="GA Desk Allocater" Height="350" Width="525">
     <Grid>
-        
+        <Button x:Name="btn_exploration" Content="Explore" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="btn_exploration_Click"/>
+
     </Grid>
 </Window>
