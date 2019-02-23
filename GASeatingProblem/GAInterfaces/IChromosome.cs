@@ -11,7 +11,7 @@ namespace GASeatingProblem
     /// For example, if T==String/Key the changes will have to ensure that the same value doesn't occur twice.
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    interface IChromosome<T>
+    public interface IChromosome<T>
     {
         /// <summary>
         /// Populate the chromosomes internal structure based on a list of string.
@@ -19,6 +19,12 @@ namespace GASeatingProblem
         /// </summary>
         /// <param name="rawStrings"></param>
         void InitialiseFromStrings(List<string> rawStrings);
+
+        /// <summary>
+        /// A lot like InitialiseFromStrings, but more focused on the specific type of the chromosome
+        /// </summary>
+        /// <param name="rawChromosomeData"></param>
+        void InitialiseFromRawInputs(List<T> rawChromosomeData);
 
         /// <summary>
         /// Create 2 offspring from the current chromosome and the provided parter.
@@ -44,10 +50,10 @@ namespace GASeatingProblem
         /// <returns></returns>
         void Mutate();
 
-        //we might want to add these, simply so that IPopulation doesn't have to track fitnesses seperately.
-//        void SetFitness(double fitness);
-//        double GetFitness();
-
+        //we add these, simply so that IPopulation doesn't have to track fitnesses seperately. 
+        void SetFitness(double fitness);
+        double GetFitness();
+        
         List<T> GetRawElements();
     }
 }

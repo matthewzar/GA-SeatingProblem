@@ -1,13 +1,36 @@
-﻿<Window x:Class="GASeatingProblem.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GASeatingProblem"
+        xmlns:Seating="clr-namespace:GASeatingProblem.Seating" x:Class="GASeatingProblem.MainWindow"
         mc:Ignorable="d"
-        Title="GA Desk Allocater" Height="350" Width="525">
+        Title="GA Desk Allocater" Height="258.517" Width="492">
     <Grid>
-        <Button x:Name="btn_exploration" Content="Explore" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="btn_exploration_Click"/>
-
+        <Button x:Name="btn_start" Content="Select Input File And Run" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Width="164" Click="btn_StartCalculating"/>
+        <TextBox x:Name="tb_min_swap" HorizontalAlignment="Left" Height="23" Margin="412,16,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="label" Content="Min swap mutations:" HorizontalAlignment="Left" Margin="288,12,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Max swap mutations:" HorizontalAlignment="Left" Margin="286,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="Conflict shift range:" HorizontalAlignment="Left" Margin="295,69,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tb_max_swap" HorizontalAlignment="Left" Height="23" Margin="412,44,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="tb_conflict_shift" HorizontalAlignment="Left" Height="23" Margin="412,73,0,0" TextWrapping="Wrap" Text="30" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="tb_max_generations" HorizontalAlignment="Left" Height="23" Margin="175,13,0,0" TextWrapping="Wrap" Text="50000" VerticalAlignment="Top" Width="55" TextChanged="tb_max_generations_TextChanged"/>
+        <Label x:Name="label_Copy2" Content="Max Generations:" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy3" Content="Chromosome Per Population:" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy4" Content="Update Per X Generations" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tb_pop_size" HorizontalAlignment="Left" Height="23" Margin="175,73,0,0" TextWrapping="Wrap" Text="1500" VerticalAlignment="Top" Width="55" TextChanged="tb_max_generations_TextChanged"/>
+        <TextBox x:Name="tb_update_freq" HorizontalAlignment="Left" Height="23" Margin="175,43,0,0" TextWrapping="Wrap" Text="1000" VerticalAlignment="Top" Width="55" TextChanged="tb_max_generations_TextChanged"/>
+        <DatePicker x:Name="date_to_calculate_for" HorizontalAlignment="Left" Margin="175,111,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label x:Name="label_Copy5" Content="Date to calculate seating for:" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="385,113,0,0" VerticalAlignment="Top" Width="84" SelectedIndex="3" SelectionChanged="comboBox_SelectionChanged">
+            <Seating:CrossoverType>LeftRight</Seating:CrossoverType>
+            <Seating:CrossoverType>CentreChunk</Seating:CrossoverType>
+            <Seating:CrossoverType>RandomMerge</Seating:CrossoverType>
+            <Seating:CrossoverType>Clone</Seating:CrossoverType>
+        </ComboBox>
+        <Label x:Name="label_Copy6" Content="Crossover type:" HorizontalAlignment="Left" Margin="289,109,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_SaveBest" Content="Save Best Layout" HorizontalAlignment="Left" Margin="10,190,0,0" VerticalAlignment="Top" Width="164" IsEnabled="False" Click="btn_SaveBest_Click"/>
+        <CheckBox x:Name="cb_UseHistoricSeats" Content="Use Previous Day As Target Layout?" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

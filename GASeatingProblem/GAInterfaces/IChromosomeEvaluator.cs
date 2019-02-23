@@ -1,6 +1,6 @@
 ﻿namespace GASeatingProblem
 {
-    interface ILayoutEvaluator<T>
+    public interface ILayoutEvaluator<T>
     {
         /// <summary>
         /// Get the numeric fitness (or fitnesses) of a single chromosome.

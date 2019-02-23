@@ -1,0 +1,1760 @@
+{
+  "Employees": [
+    {
+      "Conflicts": [],
+      "Name": "Person43",
+      "Index": 0,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person248",
+      "Index": 1,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person32",
+      "Index": 2,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person14",
+      "Index": 3,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person16",
+      "Index": 4,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person158",
+      "Index": 5,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person287",
+      "Index": 6,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person241",
+      "Index": 7,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person104",
+      "Index": 8,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person257",
+      "Index": 9,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person260",
+      "Index": 10,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person113",
+      "Index": 11,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person268",
+      "Index": 12,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person162",
+      "Index": 13,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person55",
+      "Index": 14,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person238",
+      "Index": 15,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person122",
+      "Index": 16,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person77",
+      "Index": 17,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person76",
+      "Index": 18,
+      "Team": 2
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person213",
+      "Index": 19,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "Person212",
+      "Index": 20,
+      "Team": 1
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 21,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 22,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 23,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 24,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 25,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 26,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 27,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 28,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 29,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 30,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 31,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 32,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 33,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 34,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 35,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 36,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 37,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 38,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 39,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 40,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 41,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 42,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 43,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 44,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 45,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 46,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 47,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 48,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 49,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 50,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 51,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 52,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 53,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 54,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 55,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 56,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 57,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 58,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 59,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 60,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 61,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 62,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 63,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 64,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 65,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 66,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 67,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 68,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 69,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 70,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 71,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 72,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 73,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 74,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 75,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 76,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 77,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 78,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 79,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 80,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 81,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 82,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 83,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 84,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 85,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 86,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 87,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 88,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 89,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 90,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 91,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 92,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 93,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 94,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 95,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 96,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 97,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 98,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 99,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 100,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 101,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 102,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 103,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 104,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 105,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 106,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 107,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 108,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 109,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 110,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 111,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 112,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 113,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 114,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 115,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 116,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 117,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 118,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 119,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 120,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 121,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 122,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 123,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 124,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 125,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 126,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 127,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 128,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 129,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 130,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 131,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 132,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 133,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 134,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 135,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 136,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 137,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 138,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 139,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 140,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 141,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 142,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 143,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 144,
+      "Team": 0
+    },
+    {
+      "Conflicts": [],
+      "Name": "EMPTY DESK",
+      "Index": 145,
+      "Team": 0
+    }
+  ],
+  "Desks": [
+    {
+      "Row": 30,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 30,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 30,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 30,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 29,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 29,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 29,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 29,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 28,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 28,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 28,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 28,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 28,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 27,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 27,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 27,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 27,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 27,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 26,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 26,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 26,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 26,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 26,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 25,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 25,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 25,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 25,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 25,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 24,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 24,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 24,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 24,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 24,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 23,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 23,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 23,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 23,
+      "Col": 4,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 23,
+      "Col": 5,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 22,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 22,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 22,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 21,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 21,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 21,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 20,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 20,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 20,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 19,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 19,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 19,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 18,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 18,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 18,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 17,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 17,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 17,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 16,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 16,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 16,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 15,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 15,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 15,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 14,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 14,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 13,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 13,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 12,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 12,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 11,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 11,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 10,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 10,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 9,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 9,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 8,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 8,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 7,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 7,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 6,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 6,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 5,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 5,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 4,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 4,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 3,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 3,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 2,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 2,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 2,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 1,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 1,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 1,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 77,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 77,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 77,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 76,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 76,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 76,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 75,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 75,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 75,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 74,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 74,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 74,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 73,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 73,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 73,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 72,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 72,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 72,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 71,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 71,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 71,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 70,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 70,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 70,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 69,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 69,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 69,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 68,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 68,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 68,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 67,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 67,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 67,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 66,
+      "Col": 1,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 66,
+      "Col": 2,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 66,
+      "Col": 3,
+      "TeamNumber": 2
+    },
+    {
+      "Row": 65,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 65,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 65,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 64,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 64,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 64,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 63,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 63,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 63,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 62,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 62,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 62,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 61,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 61,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 61,
+      "Col": 3,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 60,
+      "Col": 1,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 60,
+      "Col": 2,
+      "TeamNumber": 1
+    },
+    {
+      "Row": 60,
+      "Col": 3,
+      "TeamNumber": 1
+    }
+  ],
+  "RawChromosomeIndexes": [
+    30,
+    98,
+    72,
+    67,
+    122,
+    14,
+    55,
+    58,
+    127,
+    18,
+    47,
+    53,
+    57,
+    23,
+    139,
+    16,
+    109,
+    66,
+    44,
+    108,
+    39,
+    114,
+    85,
+    138,
+    68,
+    118,
+    120,
+    106,
+    70,
+    75,
+    52,
+    32,
+    88,
+    54,
+    17,
+    4,
+    124,
+    59,
+    84,
+    45,
+    94,
+    131,
+    76,
+    87,
+    37,
+    128,
+    74,
+    60,
+    143,
+    65,
+    126,
+    8,
+    102,
+    116,
+    27,
+    93,
+    80,
+    111,
+    28,
+    135,
+    101,
+    9,
+    63,
+    42,
+    99,
+    48,
+    105,
+    11,
+    107,
+    121,
+    112,
+    133,
+    89,
+    49,
+    3,
+    34,
+    103,
+    2,
+    140,
+    56,
+    69,
+    129,
+    19,
+    134,
+    86,
+    130,
+    115,
+    77,
+    95,
+    117,
+    83,
+    46,
+    13,
+    123,
+    92,
+    79,
+    36,
+    41,
+    0,
+    137,
+    110,
+    61,
+    7,
+    100,
+    15,
+    35,
+    40,
+    51,
+    21,
+    31,
+    25,
+    22,
+    90,
+    1,
+    10,
+    29,
+    33,
+    6,
+    91,
+    104,
+    125,
+    81,
+    119,
+    97,
+    26,
+    141,
+    82,
+    113,
+    71,
+    132,
+    145,
+    144,
+    24,
+    142,
+    43,
+    62,
+    12,
+    73,
+    64,
+    78,
+    136,
+    20,
+    5,
+    38,
+    50,
+    96
+  ]
+}

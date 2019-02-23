@@ -2,7 +2,7 @@
 
 namespace GASeatingProblem
 {
-    interface IPopulation<T>
+    public interface IPopulation<T>
     {
         /// <summary>
         /// Add a new chromosome to the current population.
